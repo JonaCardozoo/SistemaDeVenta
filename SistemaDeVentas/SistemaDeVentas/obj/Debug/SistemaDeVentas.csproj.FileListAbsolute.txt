@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\SistemaDeVentas\SistemaDeVentas\bin\Debug\SistemaDeVentas.exe.config
+C:\Users\Administrator\source\repos\SistemaDeVentas\SistemaDeVentas\bin\Debug\SistemaDeVentas.exe
+C:\Users\Administrator\source\repos\SistemaDeVentas\SistemaDeVentas\bin\Debug\SistemaDeVentas.pdb
+C:\Users\Administrator\source\repos\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.FAgregarProducto.resources
+C:\Users\Administrator\source\repos\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Form1.resources
+C:\Users\Administrator\source\repos\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Properties.Resources.resources
+C:\Users\Administrator\source\repos\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.exe
+C:\Users\Administrator\source\repos\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.pdb
+C:\Users\Administrator\source\repos\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.FFotoProducto.resources
+C:\Users\Administrator\source\repos\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.FPagar.resources
+C:\Users\Administrator\source\repos\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.FInventario.resources
+C:\Users\Administrator\source\repos\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.FModificarProducto.resources
+C:\Users\Administrator\source\repos\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.FAgregadoConExito.resources

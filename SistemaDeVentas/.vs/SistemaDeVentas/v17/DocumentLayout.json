@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95F9F49F-C21E-4024-ABBE-84FAE50DC101}|SistemaDeVentas\\SistemaDeVentas.csproj|C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\sistemadeventas\\fagregadoconexito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95F9F49F-C21E-4024-ABBE-84FAE50DC101}|SistemaDeVentas\\SistemaDeVentas.csproj|solutionrelative:sistemadeventas\\fagregadoconexito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F9F49F-C21E-4024-ABBE-84FAE50DC101}|SistemaDeVentas\\SistemaDeVentas.csproj|C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\sistemadeventas\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95F9F49F-C21E-4024-ABBE-84FAE50DC101}|SistemaDeVentas\\SistemaDeVentas.csproj|solutionrelative:sistemadeventas\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F9F49F-C21E-4024-ABBE-84FAE50DC101}|SistemaDeVentas\\SistemaDeVentas.csproj|C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\sistemadeventas\\fagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95F9F49F-C21E-4024-ABBE-84FAE50DC101}|SistemaDeVentas\\SistemaDeVentas.csproj|solutionrelative:sistemadeventas\\fagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F9F49F-C21E-4024-ABBE-84FAE50DC101}|SistemaDeVentas\\SistemaDeVentas.csproj|C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\sistemadeventas\\fagregadoconexito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95F9F49F-C21E-4024-ABBE-84FAE50DC101}|SistemaDeVentas\\SistemaDeVentas.csproj|solutionrelative:sistemadeventas\\fagregadoconexito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F9F49F-C21E-4024-ABBE-84FAE50DC101}|SistemaDeVentas\\SistemaDeVentas.csproj|C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\sistemadeventas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95F9F49F-C21E-4024-ABBE-84FAE50DC101}|SistemaDeVentas\\SistemaDeVentas.csproj|solutionrelative:sistemadeventas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F9F49F-C21E-4024-ABBE-84FAE50DC101}|SistemaDeVentas\\SistemaDeVentas.csproj|c:\\users\\administrator\\source\\repos\\sistemadeventas\\sistemadeventas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95F9F49F-C21E-4024-ABBE-84FAE50DC101}|SistemaDeVentas\\SistemaDeVentas.csproj|solutionrelative:sistemadeventas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F9F49F-C21E-4024-ABBE-84FAE50DC101}|SistemaDeVentas\\SistemaDeVentas.csproj|c:\\users\\administrator\\source\\repos\\sistemadeventas\\sistemadeventas\\fhistorialdeventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95F9F49F-C21E-4024-ABBE-84FAE50DC101}|SistemaDeVentas\\SistemaDeVentas.csproj|solutionrelative:sistemadeventas\\fhistorialdeventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F9F49F-C21E-4024-ABBE-84FAE50DC101}|SistemaDeVentas\\SistemaDeVentas.csproj|C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\sistemadeventas\\finventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95F9F49F-C21E-4024-ABBE-84FAE50DC101}|SistemaDeVentas\\SistemaDeVentas.csproj|solutionrelative:sistemadeventas\\finventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F9F49F-C21E-4024-ABBE-84FAE50DC101}|SistemaDeVentas\\SistemaDeVentas.csproj|C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\sistemadeventas\\fagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95F9F49F-C21E-4024-ABBE-84FAE50DC101}|SistemaDeVentas\\SistemaDeVentas.csproj|solutionrelative:sistemadeventas\\fagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F9F49F-C21E-4024-ABBE-84FAE50DC101}|SistemaDeVentas\\SistemaDeVentas.csproj|C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\sistemadeventas\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95F9F49F-C21E-4024-ABBE-84FAE50DC101}|SistemaDeVentas\\SistemaDeVentas.csproj|solutionrelative:sistemadeventas\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F9F49F-C21E-4024-ABBE-84FAE50DC101}|SistemaDeVentas\\SistemaDeVentas.csproj|C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\sistemadeventas\\fmodificarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95F9F49F-C21E-4024-ABBE-84FAE50DC101}|SistemaDeVentas\\SistemaDeVentas.csproj|solutionrelative:sistemadeventas\\fmodificarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F9F49F-C21E-4024-ABBE-84FAE50DC101}|SistemaDeVentas\\SistemaDeVentas.csproj|C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\sistemadeventas\\ffotoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95F9F49F-C21E-4024-ABBE-84FAE50DC101}|SistemaDeVentas\\SistemaDeVentas.csproj|solutionrelative:sistemadeventas\\ffotoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F9F49F-C21E-4024-ABBE-84FAE50DC101}|SistemaDeVentas\\SistemaDeVentas.csproj|C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\sistemadeventas\\fpagar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95F9F49F-C21E-4024-ABBE-84FAE50DC101}|SistemaDeVentas\\SistemaDeVentas.csproj|solutionrelative:sistemadeventas\\fpagar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FHistorialDeVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\SistemaDeVentas\\FHistorialDeVentas.cs",
+              "RelativeDocumentMoniker": "SistemaDeVentas\\FHistorialDeVentas.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\SistemaDeVentas\\FHistorialDeVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaDeVentas\\FHistorialDeVentas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T03:22:17.127Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FInventario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\SistemaDeVentas\\FInventario.cs",
+              "RelativeDocumentMoniker": "SistemaDeVentas\\FInventario.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\SistemaDeVentas\\FInventario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaDeVentas\\FInventario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T00:13:46.648Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\SistemaDeVentas\\Form1.cs",
+              "RelativeDocumentMoniker": "SistemaDeVentas\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\SistemaDeVentas\\Form1.cs",
+              "RelativeToolTip": "SistemaDeVentas\\Form1.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAADgv5gAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T01:50:18.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\SistemaDeVentas\\Form1.cs",
+              "RelativeDocumentMoniker": "SistemaDeVentas\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\SistemaDeVentas\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaDeVentas\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T01:33:50.792Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FAgregadoConExito.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\SistemaDeVentas\\FAgregadoConExito.cs",
+              "RelativeDocumentMoniker": "SistemaDeVentas\\FAgregadoConExito.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\SistemaDeVentas\\FAgregadoConExito.cs",
+              "RelativeToolTip": "SistemaDeVentas\\FAgregadoConExito.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAD4vx8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T03:50:02.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FAgregarProducto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\SistemaDeVentas\\FAgregarProducto.cs",
+              "RelativeDocumentMoniker": "SistemaDeVentas\\FAgregarProducto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\SistemaDeVentas\\FAgregarProducto.cs",
+              "RelativeToolTip": "SistemaDeVentas\\FAgregarProducto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T01:59:08.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FAgregadoConExito.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\SistemaDeVentas\\FAgregadoConExito.cs",
+              "RelativeDocumentMoniker": "SistemaDeVentas\\FAgregadoConExito.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\SistemaDeVentas\\FAgregadoConExito.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaDeVentas\\FAgregadoConExito.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T03:33:00.368Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\SistemaDeVentas\\Empresa.cs",
+              "RelativeDocumentMoniker": "SistemaDeVentas\\Empresa.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\SistemaDeVentas\\Empresa.cs",
+              "RelativeToolTip": "SistemaDeVentas\\Empresa.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAcwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T02:19:03.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FAgregarProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\SistemaDeVentas\\FAgregarProducto.cs",
+              "RelativeDocumentMoniker": "SistemaDeVentas\\FAgregarProducto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\SistemaDeVentas\\FAgregarProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaDeVentas\\FAgregarProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T01:52:47.862Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\SistemaDeVentas\\Productos.cs",
+              "RelativeDocumentMoniker": "SistemaDeVentas\\Productos.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\SistemaDeVentas\\Productos.cs",
+              "RelativeToolTip": "SistemaDeVentas\\Productos.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T02:19:22.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FModificarProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\SistemaDeVentas\\FModificarProducto.cs",
+              "RelativeDocumentMoniker": "SistemaDeVentas\\FModificarProducto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\SistemaDeVentas\\FModificarProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaDeVentas\\FModificarProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T03:11:12.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FFotoProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\SistemaDeVentas\\FFotoProducto.cs",
+              "RelativeDocumentMoniker": "SistemaDeVentas\\FFotoProducto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\SistemaDeVentas\\FFotoProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaDeVentas\\FFotoProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T21:26:24.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FPagar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\SistemaDeVentas\\FPagar.cs",
+              "RelativeDocumentMoniker": "SistemaDeVentas\\FPagar.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\SistemaDeVentas\\SistemaDeVentas\\FPagar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaDeVentas\\FPagar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:15:50.902Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
